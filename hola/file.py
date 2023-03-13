@@ -1,7 +1,7 @@
 num1 = 42 # variaable declara numero entero
 num2 = 2.3 # declaracion de variable
 boolean = True # variable de declaracion booloean
-string = 'Hello World' #
+string = 'Hello World' 
 pizza_toppings = ['Pepperoni', 'Sausage', 'Jalepenos', 'Cheese', 'Olives'] # declaracion de un registro
 person = {'name': 'John', 'location': 'Salt Lake', 'age': 37, 'is_balding': False} # declaracion de un registro
 fruit = ('blueberry', 'strawberry', 'banana') # esto es un arreglo
@@ -13,12 +13,12 @@ person['name'] = 'George' # imprime una funcion
 person['eye_color'] = 'blue' # imprime una funcion
 print(fruit[2]) # imprime una fncion 
 
-if num1 > 45:
+if num1 > 45: 
     print("It's greater") # declara una condicional if
 else:
     print("It's lower") # declara una condicional else 
 
-if len(string) < 5:
+if len(string) < 5: # es un condicional
     print("It's a short word!")
 elif len(string) > 15:
     print("It's a long word!")
