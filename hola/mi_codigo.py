@@ -11,5 +11,5 @@ print( "hola " + name )
 
 fave_food1 = "sushi"
 fave_food2 = "pizza"
-print("Amo comer {} y {}".format(fave_food1, fave_food2))
-print(f"Amo comer {fave_food1} y {fave_food2}" )
+print("Me gusta comer {} y {}".format(fave_food1, fave_food2))
+print(f"Me gusta comer {fave_food1} y {fave_food2}" )
